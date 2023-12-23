@@ -753,6 +753,9 @@ img {
   padding: 8px 16px;
 }
 
+.modal-comment:focus {
+  border-color: #4d5ae5;
+}
 .div-privacy {
   margin-bottom: 24px;
 }
